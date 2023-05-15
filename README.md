@@ -2,7 +2,7 @@
 
 # Table of Contents
 - [find & delete](#find-delete)
-- [link](#link)
+- [link go](#link)
 - [Example2](#example2)
 - [Third Example](#third-example)
 - [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
@@ -11,7 +11,7 @@
 ## Example2
 ## Third Example
 ## [Fourth Example](http://www.fourthexample.com) 
-## link
+## link go
 
 [Link text Here](https://link-url-here.org)
 

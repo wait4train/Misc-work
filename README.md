@@ -7,7 +7,7 @@
 - [Third Example](#third-example)
 - [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
 
-## find & delete
+
 ## Example2
 ## Third Example
 ## [Fourth Example](http://www.fourthexample.com) 
@@ -34,3 +34,5 @@ This is a sub paragraph, formatted in heading 3 style
 
 ## Another paragraph <a name="paragraph2"></a>
 The second paragraph text
+
+## find & delete

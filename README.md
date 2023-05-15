@@ -1,33 +1,20 @@
 # Misc-work
-
-# Table of Contents
-- [find & delete](#find-delete)
-- [link go](#link)
-- [Example2](#example2)
-- [Third Example](#third-example)
-- [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
-
-
-## Example2
-## Third Example
-## [Fourth Example](http://www.fourthexample.com) 
-## link
-
-[Link text Here](https://link-url-here.org)
-
-
-
-# Table of contents
-1. [Introduction](#introduction)
-2. [Some paragraph](#paragraph1)
-    1. [Sub paragraph](#subparagraph1)
-3. [Another paragraph](#paragraph2)
-
-## This is the introduction <a name="introduction"></a>
-Some introduction text, formatted in heading 2 style
+## Table of contents
+- [Linux Command](#linux-command)
+- [Some paragraph](#paragraph1)
+    - [Sub paragraph](#subparagraph1)
+- [Another paragraph](#paragraph2)
 
 ## Some paragraph <a name="paragraph1"></a>
 The first paragraph text
+
+## Some paragraph <a name="paragraph1"></a>
+The first paragraph text
+
+## Linux Command <a name="linux-command"></a>
+### How find & delete
+
+
 
 ### Sub paragraph <a name="subparagraph1"></a>
 This is a sub paragraph, formatted in heading 3 style

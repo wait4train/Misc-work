@@ -8,9 +8,9 @@
 
 
 ## Linux Command <a name="linux-command"></a>
-### How find & delete at once <a name="find-delete"></a>
+#### How find & delete at once <a name="find-delete"></a>
     find ./ -iname rea* -exec rm {} \;
-### Parrot Linux HiDPI command <a name="hidpi-parrot"></a>
+#### Parrot Linux HiDPI command <a name="hidpi-parrot"></a>
     gsettings set org.mate.interface window-scaling-factor $1
 
 ## Tools <a name="tools"></a>
